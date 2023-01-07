@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pre_hospitalservicesandsupplies">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PreHospitalServicesAndSupplies">
+        <activity
+            android:name=".DiseaseAndTreatmentDet"
+            android:exported="false" />
+        <activity
+            android:name=".InsertTreatment"
+            android:exported="false" />
+        <activity
+            android:name=".DiseaseAndTreatment"
+            android:exported="false" />
+        <activity
+            android:name=".videos"
+            android:exported="false" />
+        <activity
+            android:name=".SendOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VerifyOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewchaderhasiDoctorList"
+            android:exported="false" />
+        <activity
+            android:name=".MedicalList"
+            android:exported="false" />
+        <activity
+            android:name=".AddMedical"
+            android:exported="false" />
+        <activity
+            android:name=".HospitalListHabigang"
+            android:exported="false" />
+        <activity
+            android:name=".HospitalLocation"
+            android:exported="false" />
+        <activity
+            android:name=".MedicineListDet"
+            android:exported="false" />
+        <activity
+            android:name=".MedicineList"
+            android:exported="false" />
+        <activity
+            android:name=".AddMedicine"
+            android:exported="false" />
+        <activity
+            android:name=".AdminDashBoard"
+            android:exported="false" />
+        <activity
+            android:name=".AdminLogin"
+            android:exported="false" />
+        <activity
+            android:name=".loginfacebook"
+            android:exported="false" />
+        <activity
+            android:name=".GoogleSignin"
+            android:exported="false" />
+        <activity
+            android:name=".forgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".DashBoard"
+            android:exported="false" />
+        <activity
+            android:name=".loginactivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.sdk.ClientToken"
+            android:value="@string/facebook_client_token" />
+    </application>
+
+</manifest>

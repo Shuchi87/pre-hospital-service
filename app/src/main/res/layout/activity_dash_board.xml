@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    tools:context=".DashBoard">
+
+  <Button
+      android:id="@+id/MedicineListView"
+      android:layout_width="100dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="196dp"
+      android:text="Medicine list"
+      android:textSize="20dp"
+      android:background="@drawable/btn_login"
+      android:textColor="@color/white"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.238"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <Button
+      android:id="@+id/HospitalListView"
+      android:layout_width="100dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="196dp"
+      android:text="Hospital list"
+      android:textSize="20dp"
+      android:background="@drawable/btn_login"
+      android:textColor="@color/white"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.423"
+      app:layout_constraintStart_toEndOf="@+id/MedicineListView"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <TextView
+      android:id="@+id/textView3"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="36dp"
+      android:fontFamily="@font/gentium_book_basic"
+      android:gravity=""
+      android:text="@string/name"
+      android:textColor="#B20600"
+      android:textSize="35sp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.494"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <Button
+      android:id="@+id/Videos"
+      android:layout_width="100dp"
+      android:layout_height="100dp"
+      android:layout_marginBottom="252dp"
+      android:background="@drawable/btn_login"
+      android:text="Videos"
+      android:textColor="@color/white"
+      android:textSize="20dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.745"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/HospitalListView"
+      app:layout_constraintVertical_bias="0.445" />
+
+  <Button
+      android:id="@+id/DiseasBtn"
+      android:layout_width="100dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="44dp"
+      android:background="@drawable/btn_login"
+      android:text="Disease and Treatment "
+      android:textColor="@color/white"
+      android:textSize="16dp"
+      app:layout_constraintEnd_toStartOf="@+id/Videos"
+      app:layout_constraintHorizontal_bias="0.56"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/MedicineListView" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

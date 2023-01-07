@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/border.xml" value="0.2055" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/btn.xml" value="0.2335" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/btn_login.xml" value="0.1035" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/btn_new.xml" value="0.158" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/favorite.xml" value="0.1325" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/favorite_not.xml" value="0.1325" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/search_icon.xml" value="0.1635" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/splash_activity_bg.xml" value="0.1725" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/drawable/text_btn.xml" value="0.2335" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/actionbar.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/actionbar1.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_add_medical.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_add_medicine.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_admin_dash_board.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_admin_login.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_dash_board.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_disease_and_treatment.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_disease_and_treatment_det.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_google_signin.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_hospital_list_habigang.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_hospital_location.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_insert_treatment.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_loginactivity.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_loginfacebook.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_medecine_det.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_medical_list.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_medicine_detelis.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_medicine_list.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_medicine_list_det.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_phone_login.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_send_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_verify_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_videos.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/activity_viewchaderhasi_doctor_list.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/diseaselist.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/habiganjdoctorlist.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/medcinedetiles.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/medicinelist.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/spinner_layout.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/viewmedicallist.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/layout/viewmedicallisthabiganj.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PreHospitalServicesandSupplies2/app/src/main/res/menu/search.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

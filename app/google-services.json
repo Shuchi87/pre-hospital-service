@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131180484779",
+    "project_id": "mcare24-7",
+    "storage_bucket": "mcare24-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131180484779:android:049337fd9a39221b853fee",
+        "android_client_info": {
+          "package_name": "com.example.pre_hospitalservicesandsupplies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131180484779-rtthlhst1u65ig5i2h2727se96to97ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pre_hospitalservicesandsupplies",
+            "certificate_hash": "e7521fefd69aaf313b36c38a42e8216fa9b2a18e"
+          }
+        },
+        {
+          "client_id": "131180484779-5pqqjpscugpdrtitpeemr9ukmh1a5v2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7jtaLhVPdpA-THMlm4hy7XfFVuBws3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131180484779-5pqqjpscugpdrtitpeemr9ukmh1a5v2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
